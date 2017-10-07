@@ -13,7 +13,7 @@ ___
 
 <a name="voltage">Voltage APKS</a>
 ---
-[Website Link](www.voltage.ga)
+[Website Link](http://www.voltage.ga)
 
 
 #### Voltage APKs Is A Website To Give Out Paid2Free, 'Hacked' ,and Legit Andriod Apps
@@ -53,7 +53,7 @@ ___
 
 <a name="wattage">Wattage PC Games</a>
 ---
-[Website Link](www.wattage.ga)
+[Website Link](http://www.wattage.ga)
 
 
 #### Wattage PC Games Is A Website To Give Out Paid2Free PC Games
