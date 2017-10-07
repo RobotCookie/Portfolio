@@ -176,3 +176,28 @@ priority.grabbed = "normal"
 priority.ungrabbed = "normal"
 powerType.suspend = "soft"
 ~~~
+
+<a name="autoclicker">Auto Clicker</a>
+---
+[File Link](https://github.com/RobotCookie/Portfolio/blob/master/AutoClicker.exe)
+
+#### Simple Auto Clicker Activate With Ctrl+L, Stop With Ctrl+K
+
+## AHK Code
+~~~ahk
+
+end = 0
+^l::
+Loop {
+Click
+Click
+Click
+Click
+if (end = 1) {
+break
+}
+}
+^k::
+end = 1
+reload
+~~~
