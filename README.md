@@ -9,7 +9,7 @@ Welcome To My Development Portfolio Here You Will Find All My Projects
 - ### [Code OS](#codeos)
 - ### [Auto Clicker](#autoclicker)
 - ### [More Coming Soon](#my-projects)
-
+___
 
 <a name="voltage">Voltage APKS</a>
 ---
@@ -51,8 +51,8 @@ Welcome To My Development Portfolio Here You Will Find All My Projects
 ~~~
 
 
-<a name="wattage"><h2>Wattage PC Games</h2></a>
-***
+<a name="wattage">Wattage PC Games</a>
+---
 [Website Link](www.wattage.ga)
 
 
@@ -88,8 +88,8 @@ window.addEvent('domready', function() {
 </html>
 ~~~
 
-<a name="sdatabase"><h2>Student Database (WIP)</h2></a>
-***
+<a name="sdatabase">Student Database (WIP)</a>
+---
 [Repo Link]()
 
 
@@ -136,8 +136,8 @@ else:
             print('Incorrect')
 ~~~
 
-<a name="codeos"><h2>CodeOS (DIS)</h2></a>
-***
+<a name="codeos">CodeOS (DIS)</a>
+---
 [Repo Link]()
 
 
