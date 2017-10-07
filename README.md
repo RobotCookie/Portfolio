@@ -11,8 +11,8 @@ Welcome To My Development Portfolio Here You Will Find All My Projects
 - ### [More Coming Soon](#my-projects)
 
 
-<a name="voltage"><h2>Voltage APKS</h2></a>
-***
+<a name="voltage">Voltage APKS</a>
+---
 [Website Link](www.voltage.ga)
 
 
@@ -176,13 +176,3 @@ priority.grabbed = "normal"
 priority.ungrabbed = "normal"
 powerType.suspend = "soft"
 ~~~
-
-
-
-
-
-
-
-
-
-
