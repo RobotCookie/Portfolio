@@ -45,7 +45,7 @@ ___
   <h4>Sponser Custom Network Minecraft Sever</h4>
   <img src="advert.gif" >
   <h4>IP = bbfms.aternos.me</h4>
-    </div class="advert">
+  </div class="advert">
 </body>
 </html>
 ~~~
