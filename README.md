@@ -97,7 +97,7 @@ window.addEvent('domready', function() {
 
 ## Code Listed Here (teacher.py)
 ~~~python
-#Adam Baker
+#Robot Coookie
 #6.10.17
 #Ultimate School Database
 
