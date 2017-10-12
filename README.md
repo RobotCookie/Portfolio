@@ -90,7 +90,7 @@ window.addEvent('domready', function() {
 
 <a name="sdatabase">Student Database (WIP)</a>
 ---
-[Repo Link]()
+[Repo Link](https://github.com/RobotCookie/StudentDatabase.git)
 
 
 #### This Was A HW Set To Create A Database For A Teacher To Log Students
