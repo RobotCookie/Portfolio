@@ -11,7 +11,7 @@ Welcome To My Development Portfolio Here You Will Find All My Projects
 - ### [More Coming Soon](#my-projects)
 ___
 
-<a name="voltage">Voltage APKS</a>
+<a name="voltage">Voltage APKS [Discontinued]</a>
 ---
 [Website Link](http://www.voltage.ga)
 
@@ -51,7 +51,7 @@ ___
 ~~~
 
 
-<a name="wattage">Wattage PC Games</a>
+<a name="wattage">Wattage PC Games [Discontinued]</a>
 ---
 [Website Link](http://www.wattage.ga)
 
@@ -88,7 +88,7 @@ window.addEvent('domready', function() {
 </html>
 ~~~
 
-<a name="sdatabase">Student Database (WIP)</a>
+<a name="sdatabase">Student Database </a>
 ---
 [Repo Link](https://github.com/RobotCookie/StudentDatabase.git)
 
@@ -136,7 +136,7 @@ else:
             print('Incorrect')
 ~~~
 
-<a name="codeos">CodeOS (DIS)</a>
+<a name="codeos">CodeOS [Discontinued]</a>
 ---
 [Repo Link]()
 
@@ -201,3 +201,10 @@ break
 end = 1
 reload
 ~~~
+<a name="alphagun">Alpha Gun [Discontinued]</a>
+---
+[Downloads](https://drive.google.com/drive/folders/1KXIBvPCaN4RWp02KF0695EVGhC07hMaK)
+
+### Basic FPS Project, No Enemies Just You, A Gun And The World.
+
+## Made in unity
