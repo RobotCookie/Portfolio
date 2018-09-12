@@ -8,6 +8,7 @@ Welcome To My Development Portfolio Here You Will Find All My Projects
 - ### [Student Database](#sdatabase)
 - ### [Code OS](#codeos)
 - ### [Auto Clicker](#autoclicker)
+- ### [Alpha Gun](#alphagun)
 - ### [More Coming Soon](#my-projects)
 ___
 
@@ -207,4 +208,4 @@ reload
 
 ### Basic FPS Project, No Enemies Just You, A Gun And The World.
 
-## Made in unity
+Made in unity
